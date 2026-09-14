@@ -15,11 +15,10 @@ A fast, lightweight C++ recoil utility with real-time AI operator detection and 
 <img width="747" height="482" alt="Screenshot 2026-09-14 144904" src="https://github.com/user-attachments/assets/1de41be7-52ea-4d18-b4f7-b674480152f2" />
 
 ### 🤖 AI Operator Auto-Detection
-<img width="742" height="479" alt="Screenshot 2026-09-14 144926" src="https://github.com/user-attachments/assets/494acb10-0371-4116-98b3-d7c5ad7c44ee" />
+<img width="754" height="485" alt="Screenshot 2026-09-14 144910" src="https://github.com/user-attachments/assets/26ec16a3-e4ae-4904-a82a-e05ceb564c78" />
 
 ### ✨ Misc Tab
 <img width="746" height="479" alt="Screenshot 2026-09-14 144918" src="https://github.com/user-attachments/assets/3e11ddef-e082-4eda-92c3-47bb921b4571" />
-
 
 ### 🔄 Built-in Auto-Updater
 <img width="742" height="479" alt="Screenshot 2026-09-14 144926" src="https://github.com/user-attachments/assets/494acb10-0371-4116-98b3-d7c5ad7c44ee" />
