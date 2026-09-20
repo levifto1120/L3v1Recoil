@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "4.1.0",
   "download_url": "https://github.com/levifto1120/L3v1Recoil/releases/latest/download/L3V1_Recoil.exe",
-  "notes": "v4.0.0 Highlights:\r\n• Built-in Automatic Updater & Version Checker\r\n• Left & Right Drop Peek Macro with duration sliders\r\n• Restored shared weapon recoil sync across all operators\r\n• Added [X] clear buttons to unbind hotkeys (Not Bound)\r\n• Rapid Crouch Spam & Lean Spam macros\r\n• Release Notes & What's New dialog (i)\r\n• 100% Standalone (Zero Python required)\r\n• Anti-flicker AI detection & stretched res support"
+  "notes": "v4.1.0 Update:\r\n• Fully Resizable Window: Drag window borders to make the program larger or smaller\r\n• Responsive UI Scaling: Operator icons, buttons, sliders, and text dynamically scale with window size\r\n• Sharp UI & Font Fitting: High-resolution rendering with auto-adjusting font sizes"
 }
